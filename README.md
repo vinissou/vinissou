@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinissou&layout=compact)
+<img src="https://githubcard.com/vinissou.svg?d=GEtju2ak">
